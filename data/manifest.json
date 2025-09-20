@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "paths": {
+    "items": "items",
+    "pets": "pets",
+    "enchantments": "enchantments",
+    "npcs": "npcs",
+    "zones": "zones"
+  }
+}

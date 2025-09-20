@@ -1,0 +1,21 @@
+{
+  "name": "@skyblockrepo/overrides",
+  "version": "1.0.0",
+  "description": "Scripts and configurations to override skyblockrepo data",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SkyblockRepo",
+  "license": "MIT",
+  "packageManager": "pnpm@10.15.0",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "typescript": "^5.9.2"
+  }
+}
